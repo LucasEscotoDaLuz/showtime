@@ -1,6 +1,7 @@
 #
 <h1>Projeto LUCASFLIX</h1>
 
+ <p>  Link de acesso do projeto pela Vercel: https://lucasflix-sepia.vercel.app/
 
 🚀 <h> Status: Developed <h> 🚀
 
